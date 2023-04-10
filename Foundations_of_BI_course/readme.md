@@ -23,3 +23,11 @@ In this part of the course, you’ll complete a BI portfolio project based on a 
 | Descriptive and predictive analytics  | Data analysis focuses on descriptive analysis that describes historical trends.  |  BI uses analysis of historical trends to perform predictive analytics that enable organizations to determine likely future trends and act accordingly. |
 | Presenting insights  | After analysis, data analysts present their findings to inform the stakeholders’ ultimate decision.  | BI analysts create tables, reports, and dashboards that empower stakeholders with access to the data they need to inform their whole decision-making process.  |
 | Iteration  | After analysis, data analysts present their findings to inform the stakeholders’ ultimate decision.  |  BI analysts continue to iterate on processes to improve and optimize the systems and tools they have built to ensure they continue to be useful for stakeholders. |
+
+
+# Frameworks for organizing your thoughts about visualization
+Frameworks can help you organize your thoughts about data visualization and give you a useful checklist to reference. Here are two frameworks that may be useful for you as you create your own data visualizations: 
+
+ * [The McCandless Method](https://www.informationisbeautiful.net/visualizations/what-makes-a-good-data-visualization/)
+
+ * [Kaiser Fung’s Junk Charts Trifecta Checkup](https://junkcharts.typepad.com/junk_charts/junk-charts-trifecta-checkup-the-definitive-guide.html)
